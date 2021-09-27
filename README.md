@@ -4,7 +4,7 @@ I specialize in cyber security and I also program tools and publish them here. I
 
 :mailbox: Reach me out!
 
-[![instagram Badge](https://img.shields.io/badge/-@t.uo-e74c3c?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/t.uo)
+[![instagram Badge](https://img.shields.io/badge/-@221298-e74c3c?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/221298)
 [![telegram Badge](https://img.shields.io/badge/-@vv1ck-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/vv1ck)
 
 <!-- TODO: Add last video link -->
