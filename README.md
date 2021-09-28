@@ -18,6 +18,6 @@ I specialize in cyber security and I also program tools and publish them here. I
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github-readme-stats.vercel.app/api?username=vv1ck"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vv1ck" /></a>
+    <a href="https://github-readme-stats.vercel.app/api?username=vv1ck"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vv1ck&theme=tokyonight&hide=contribs" /></a>
   <a href="https://github.com/vv1ck"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vv1ck&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
