@@ -10,7 +10,7 @@ I specialize in cyber security and I also program tools and publish them here. I
 <!-- TODO: Add last video link -->
 
 - My website:
-- https://tweakpy.pythonanywhere.com/Joker_Home
+- https://vv1ck.github.io/home
 
 #### Bizness
 - :email: jokermr5oos7800@gmail.com
