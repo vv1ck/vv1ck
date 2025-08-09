@@ -1,4 +1,8 @@
-<!-- Header -->
+<!-- Header with GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/oF5oUYTOhvFnO/giphy.gif" width="600" alt="Hacker Animation"/>
+</p>
+
 <h1 align="center">Hi there 👋, I'm <span style="color:#00FFAA;">vv1ck</span></h1>
 <h3 align="center">Cybersecurity Researcher | Open-Source Developer | Ethical Hacker</h3>
 
