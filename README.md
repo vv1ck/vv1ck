@@ -6,7 +6,7 @@
 <!-- Animated name: Mr Joker (typing effect) + small hacker GIF -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=34&pause=900&center=true&vCenter=true&width=700&lines=Mr+Joker" alt="Mr Joker Typing SVG"/>
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="36" height="36" alt="Hacker Emoji"/>
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="50" height="50" alt="Hacker Emoji"/>
 </p>
 
 <h3 align="center">Cybersecurity Researcher | Open-Source Developer | Ethical Hacker</h3>
