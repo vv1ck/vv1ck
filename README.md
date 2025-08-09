@@ -1,6 +1,6 @@
-<!-- Header with GIF -->
+<!-- Header with Neon Hacker GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/oF5oUYTOhvFnO/giphy.gif" width="600" alt="Hacker Animation"/>
+  <img src="https://i.gifer.com/7UkH.gif" width="600" alt="Hacker Neon Animation"/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm <span style="color:#00FFAA;">vv1ck</span></h1>
