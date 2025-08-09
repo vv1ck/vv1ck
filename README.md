@@ -3,14 +3,15 @@
   <img src="https://i.gifer.com/7UkH.gif" width="600" alt="Hacker Neon Animation"/>
 </p>
 
-<h1 align="center">Hi there 👋, I'm <span style="color:#00FFAA;">vv1ck</span></h1>
-<h3 align="center">Cybersecurity Researcher | Open-Source Developer | Ethical Hacker</h3>
+<h1 align="center">⚡🔥 Hi there, I'm <span style="color:#00FFAA;">vv1ck</span> 🔥⚡</h1>
+<h3 align="center">💻 Cybersecurity Researcher | 🛠️ Open-Source Developer | 🕵️ Ethical Hacker 💻</h3>
 
 ---
 
 ## 👨‍💻 About Me
 I'm **vv1ck**, a passionate cybersecurity researcher and open-source developer.  
-I specialize in building advanced security tools, penetration testing utilities, and OSINT projects that empower individuals and organizations to stay safe in the digital world.
+I specialize in building advanced security tools, penetration testing utilities, and OSINT projects that empower individuals and organizations to stay safe in the digital world.  
+⚔️ Always learning, always hacking (ethically). ⚡
 
 ---
 
@@ -34,6 +35,25 @@ I specialize in building advanced security tools, penetration testing utilities,
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vv1ck&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
 </p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vv1ck&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=vv1ck&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+[![vv1ck's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vv1ck&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
