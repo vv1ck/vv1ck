@@ -1,23 +1,49 @@
-## <h1>Hi I'm MR.J0KER  <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi"></h1>
+<!-- Header -->
+<h1 align="center">Hi there 👋, I'm <span style="color:#00FFAA;">vv1ck</span></h1>
+<h3 align="center">Cybersecurity Researcher | Open-Source Developer | Ethical Hacker</h3>
 
-I specialize in cyber security and I also program tools and publish them here. I hope you like my tools ☺️
+---
 
-:mailbox: Reach me out!
+## 👨‍💻 About Me
+I'm **vv1ck**, a passionate cybersecurity researcher and open-source developer.  
+I specialize in building advanced security tools, penetration testing utilities, and OSINT projects that empower individuals and organizations to stay safe in the digital world.
 
-[![instagram Badge](https://img.shields.io/badge/-@221298-e74c3c?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/221298)
-[![telegram Badge](https://img.shields.io/badge/-@vv1ck-1ca0f1?style=flat&labelColor=1ca0f1&logo=telegram&logoColor=white)](https://t.me/vv1ck)
+---
 
-<!-- TODO: Add last video link -->
+## 🔗 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/221298" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://t.me/jjnn14" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/vv3ck" target="_blank"><img src="https://img.shields.io/badge/Telegram%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+</p>
 
-- My website:
-- https://vv1ck.github.io/home
+---
 
-#### Bizness
-- :email: jokermr5oos7800@gmail.com
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vv1ck&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+</p>
 
-## 📊 My Github Stats
+---
 
-  <br/>
-    <a href="https://github-readme-stats.vercel.app/api?username=vv1ck"><img alt="Subham Raoniar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vv1ck&theme=tokyonight" /></a>
-  <a href="https://github.com/vv1ck"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vv1ck&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
+## 🚀 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vv1ck&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+</p>
+
+---
+
+## 🛠️ Tech Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=Hack%20The%20Box&logoColor=green"/>
+  <img src="https://img.shields.io/badge/OSINT-FF0000?style=for-the-badge&logo=searchengin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Pentesting-333333?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vv1ck&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
