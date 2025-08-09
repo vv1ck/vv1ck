@@ -14,7 +14,7 @@
 ---
 
 ## About Me
-I'm **vv1ck**, a cybersecurity researcher and open-source developer.  
+I'm **Mr Joker**, a cybersecurity researcher and open-source developer.  
 I build advanced security tools, penetration testing utilities, and OSINT projects that help individuals and organizations stay safe in the digital world.
 
 ---
