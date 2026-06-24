@@ -17,11 +17,11 @@
 I'm **Mr Joker**, a cybersecurity researcher and open-source developer.  
 I build advanced security tools, penetration testing utilities, and OSINT projects that help individuals and organizations stay safe in the digital world.
 
-My Instagram account : old> @221298 | New: @62279
+My Instagram account : old> @221298 | New: @221298i
 
 My Platform : cathack.io
 
-My Store on Instagram : @_cathack
+My Store on Instagram : @cathack.io
 
 ---
 
