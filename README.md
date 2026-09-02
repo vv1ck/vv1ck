@@ -57,7 +57,7 @@ My Store on Instagram : @cathack.io
 
 ## GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vv1ck&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&v=1" alt="GitHub Trophies"/>
+  <img src="./trophies.svg" alt="GitHub Trophies"/>
 </p>
 
 ---
