@@ -12,7 +12,7 @@ jobs:
       - uses: actions/checkout@v3
       - name: Fetch Trophies
         run: |
-          curl -s "https://github-profile-trophy.vercel.app/?username=vv1ck&theme=tokyonight&no-frame=true&no-bg=true" -o trophies.svg
+          curl -sL "https://github-profile-trophy-fork.vercel.app/?username=vv1ck&theme=tokyonight&no-frame=true&no-bg=true" -o trophies.svg
       - name: Commit File
         run: |
           git config user.name "github-actions[bot]"
