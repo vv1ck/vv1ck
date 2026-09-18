@@ -54,9 +54,9 @@
 
 ---
 
-## 📈 GitHub Activity Graph
+## ⏰ Commit Activity
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vv1ck&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vv1ck&theme=tokyonight" width="96%" alt="Productive Time"/>
 </p>
 
 ---
