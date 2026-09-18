@@ -54,9 +54,9 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vv1ck&theme=tokyonight&no-bg=true&margin-w=15" alt="GitHub Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vv1ck&theme=tokyonight&hide_border=true" alt="GitHub Activity Graph"/>
 </p>
 
 ---
