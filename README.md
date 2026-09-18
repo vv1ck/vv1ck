@@ -18,6 +18,20 @@ As the founder of the **Cathack Ecosystem**, I architect specialized security to
 
 ---
 
+## 📊 GitHub Stats & Languages
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vv1ck&theme=tokyonight" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vv1ck&theme=tokyonight" width="48%" alt="Most Used Languages"/>
+</p>
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=vv1ck&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
+---
+
 ## 🎯 Core Domain Expertise
 
 <table width="100%">
@@ -82,21 +96,6 @@ As the founder of the **Cathack Ecosystem**, I architect specialized security to
   <img src="https://img.shields.io/badge/REST_APIs-0055DA?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS_Security-000000?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-</p>
-
----
-
-## 📊 GitHub Stats & Languages
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vv1ck&theme=tokyonight" width="48%" alt="GitHub Stats"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vv1ck&theme=tokyonight" width="48%" alt="Most Used Languages"/>
-</p>
-
----
-
-## 🔥 Streak Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=vv1ck&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 ---
