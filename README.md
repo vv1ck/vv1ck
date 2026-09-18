@@ -29,16 +29,6 @@
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://instagram.com/deals_direct" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://t.me/jjnn14" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://t.me/vv0ck" target="_blank"><img src="https://img.shields.io/badge/Telegram%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-  <a href="https://cathack.io" target="_blank"><img src="https://img.shields.io/badge/Website-cathack.io-00F0FF?style=for-the-badge&logo=firefox&logoColor=black"/></a>
-</p>
-
----
-
 ## 📊 GitHub Stats & Languages
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vv1ck&theme=tokyonight" width="48%" alt="GitHub Stats"/>
@@ -53,6 +43,14 @@
 </p>
 
 ---
+
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://instagram.com/deals_direct" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://t.me/jjnn14" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://t.me/vv0ck" target="_blank"><img src="https://img.shields.io/badge/Telegram%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://cathack.io" target="_blank"><img src="https://img.shields.io/badge/Website-cathack.io-00F0FF?style=for-the-badge&logo=firefox&logoColor=black"/></a>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vv1ck&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
