@@ -22,13 +22,15 @@ As the founder of the **Cathack Ecosystem**, I architect specialized security to
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🔍 DFIR & Digital Forensics</h3>
       <p><code>Forensic Analysis</code> • <code>Evidence Recovery</code></p>
       <hr>
       <p>Digital evidence acquisition, artifact analysis, memory forensics, and data recovery across modern operating systems, servers, and web environments.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <h3>⚡ VAPT & Offensive Security</h3>
       <p><code>Web / Mobile Security</code> • <code>API Auditing</code></p>
       <hr>
@@ -36,13 +38,15 @@ As the founder of the **Cathack Ecosystem**, I architect specialized security to
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h3>🌐 OSINT & Threat Intelligence</h3>
       <p><code>Breach Indexing</code> • <code>Data Processing</code></p>
       <hr>
       <p>Architecting high-throughput data processing systems and leak inspection engines to track compromised credentials and global data breaches.</p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td width="100%" valign="top">
       <h3>🛠️ Custom Tooling & API Dev</h3>
       <p><code>Python Automation</code> • <code>Security APIs</code></p>
       <hr>
@@ -50,7 +54,7 @@ As the founder of the **Cathack Ecosystem**, I architect specialized security to
     </td>
   </tr>
   <tr>
-    <td colspan="2" width="100%" valign="top">
+    <td width="100%" valign="top">
       <h3>📱 iOS Infrastructure & Distribution</h3>
       <p><code>Enterprise Deployment</code> • <code>iOS Custom Store</code></p>
       <hr>
