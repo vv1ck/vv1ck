@@ -54,13 +54,6 @@
 
 ---
 
-## ⏰ Commit Activity
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vv1ck&theme=tokyonight" width="96%" alt="Productive Time"/>
-</p>
-
----
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=vv1ck&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
