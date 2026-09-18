@@ -68,7 +68,7 @@ As the founder of the **Cathack Ecosystem**, I architect specialized security to
 <p align="center">
   <a href="https://cathack.io" target="_blank"><img src="https://img.shields.io/badge/Cathack.io-Official_Platform-00F0FF?style=for-the-badge&logo=firefox&logoColor=black"/></a>
   <a href="https://osint.cathack.io" target="_blank"><img src="https://img.shields.io/badge/Cathack_Leaks-OSINT_Engine-FF0055?style=for-the-badge&logo=radar&logoColor=white"/></a>
-  <a href="https://cathack.plus" target="_blank"><img src="https://img.shields.io/badge/Cathack_Plus-iOS_Store-9900FF?style=for-the-badge&logo=apple&logoColor=white"/></a>
+  <a href="https://plus.cathack.io" target="_blank"><img src="https://img.shields.io/badge/Cathack_Plus-iOS_Store-9900FF?style=for-the-badge&logo=apple&logoColor=white"/></a>
   <a href="https://t.me/jjnn14" target="_blank"><img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
