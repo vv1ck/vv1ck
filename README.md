@@ -1,9 +1,7 @@
-<!-- Header with Neon Hacker GIF -->
 <p align="center">
   <img src="https://i.gifer.com/7UkH.gif" width="600" alt="Hacker Neon Animation"/>
 </p>
 
-<!-- Animated name: Mr Joker (typing effect) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=38&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=Mr+Joker;Cybersecurity+Researcher;Ethical+Hacker;Open-Source+Developer" alt="Mr Joker Typing SVG"/>
 </p>
@@ -15,8 +13,8 @@
 ## 🧐 About Me
 - 🔭 **Focus**: Building advanced security tools, penetration testing utilities, and OSINT projects.
 - 🌐 **Platform**: [cathack.io](https://cathack.io)
-- 🛍️ **Store**: [@cathack.io](https://instagram.com/cathack.io)
-- 📸 **Instagram**: [@221298i](https://instagram.com/221298i)
+- 🛍️ **Store**: [@cathack.io](https://instagram.com/_cathack)
+- 📸 **Instagram**: [@221298i](https://instagram.com/deals_direct)
 
 ---
 
@@ -33,7 +31,7 @@
 
 ## 🌐 Connect with Me
 <p align="center">
-  <a href="https://instagram.com/221298i" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://instagram.com/deals_direct" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
   <a href="https://t.me/jjnn14" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://t.me/vv0ck" target="_blank"><img src="https://img.shields.io/badge/Telegram%20Channel-0088cc?style=for-the-badge&logo=telegram&logoColor=white"/></a>
   <a href="https://cathack.io" target="_blank"><img src="https://img.shields.io/badge/Website-cathack.io-00F0FF?style=for-the-badge&logo=firefox&logoColor=black"/></a>
