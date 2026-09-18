@@ -18,13 +18,46 @@ As the founder of the **Cathack Ecosystem**, I architect specialized security to
 
 ---
 
-### 🛡️ Core Domain Expertise
+## 🎯 Core Domain Expertise
 
-- 🔍 **Digital Forensics & Incident Response (DFIR)**: Digital evidence acquisition, artifact analysis, data recovery, and forensic investigation across modern operating systems and web environments.
-- ⚡ **Vulnerability Assessment & Penetration Testing (VAPT)**: Conducting technical security audits across Web Applications, Mobile Applications (iOS/Android), and REST APIs to identify authentication flaws, logic vulnerabilities, and privilege escalation vectors.
-- 🌐 **OSINT & Threat Intelligence**: Architecting high-throughput data processing systems and leak inspection engines to track compromised credentials and global data breaches.
-- 🛠️ **Custom Tooling & API Engineering**: Designing high-performance Python utilities, web automation frameworks, and custom security APIs built for specialized operations.
-- 📱 **iOS Application Infrastructure**: Operating dedicated iOS deployment and customized app distribution platform.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔍 DFIR & Digital Forensics</h3>
+      <p><code>Forensic Analysis</code> • <code>Evidence Recovery</code></p>
+      <hr>
+      <p>Digital evidence acquisition, artifact analysis, memory forensics, and data recovery across modern operating systems, servers, and web environments.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚡ VAPT & Offensive Security</h3>
+      <p><code>Web / Mobile Security</code> • <code>API Auditing</code></p>
+      <hr>
+      <p>Conducting technical security audits across Web, iOS/Android apps, and REST APIs to discover authentication flaws, logic bugs, and privilege escalation vectors.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌐 OSINT & Threat Intelligence</h3>
+      <p><code>Breach Indexing</code> • <code>Data Processing</code></p>
+      <hr>
+      <p>Architecting high-throughput data processing systems and leak inspection engines to track compromised credentials and global data breaches.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛠️ Custom Tooling & API Dev</h3>
+      <p><code>Python Automation</code> • <code>Security APIs</code></p>
+      <hr>
+      <p>Designing high-performance Python utilities, web automation frameworks, and custom security APIs built specifically for specialized security operations.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" width="100%" valign="top">
+      <h3>📱 iOS Infrastructure & Distribution</h3>
+      <p><code>Enterprise Deployment</code> • <code>iOS Custom Store</code></p>
+      <hr>
+      <p>Operating dedicated iOS deployment frameworks and customized app distribution infrastructure tailored for enterprise and modified applications.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -68,7 +101,7 @@ As the founder of the **Cathack Ecosystem**, I architect specialized security to
 <p align="center">
   <a href="https://cathack.io" target="_blank"><img src="https://img.shields.io/badge/Cathack.io-Official_Platform-00F0FF?style=for-the-badge&logo=firefox&logoColor=black"/></a>
   <a href="https://osint.cathack.io" target="_blank"><img src="https://img.shields.io/badge/Cathack_Leaks-OSINT_Engine-FF0055?style=for-the-badge&logo=radar&logoColor=white"/></a>
-  <a href="https://plus.cathack.io" target="_blank"><img src="https://img.shields.io/badge/Cathack_Plus-iOS_Store-9900FF?style=for-the-badge&logo=apple&logoColor=white"/></a>
+  <a href="https://cathack.plus" target="_blank"><img src="https://img.shields.io/badge/Cathack_Plus-iOS_Store-9900FF?style=for-the-badge&logo=apple&logoColor=white"/></a>
   <a href="https://t.me/jjnn14" target="_blank"><img src="https://img.shields.io/badge/Telegram-Contact-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
 
