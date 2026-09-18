@@ -43,7 +43,14 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/report?username=vv1ck&theme=tokyonight" alt="GitHub Profile Summary"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vv1ck&theme=tokyonight" alt="GitHub Stats"/>
+</p>
+
+---
+
+## 💻 Most Used Languages
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vv1ck&theme=tokyonight" alt="Most Used Languages"/>
 </p>
 
 ---
