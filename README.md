@@ -43,14 +43,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vv1ck&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-</p>
-
----
-
-## 💻 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vv1ck&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/report?username=vv1ck&theme=tokyonight" alt="GitHub Profile Summary"/>
 </p>
 
 ---
