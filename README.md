@@ -41,16 +41,10 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Languages
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vv1ck&theme=tokyonight" alt="GitHub Stats"/>
-</p>
-
----
-
-## 💻 Most Used Languages
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vv1ck&theme=tokyonight" alt="Most Used Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=vv1ck&theme=tokyonight" width="48%" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vv1ck&theme=tokyonight" width="48%" alt="Most Used Languages"/>
 </p>
 
 ---
